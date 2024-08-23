@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Dawid
+- 🌱 I’m interested in Data analytics and currently learning **Power BI**, **SQL**, and **Python** basics.
